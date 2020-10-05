@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "./streams.py", line 7, in <module>
+    raise ValueError('Now we are generating an error stdout')
+ValueError: Now we are generating an error stdout
+These are from terminal
